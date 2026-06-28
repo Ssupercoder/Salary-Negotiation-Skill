@@ -91,4 +91,4 @@
 | 部署 | Serverless / 轻量VPS |
 
 ## 七、贡献者及联系方式
-Lei Xin（辛磊，2835838600@qq.com)
+Lei Xin（辛磊，快手科技，2835838600@qq.com)
