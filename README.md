@@ -1,1 +1,1 @@
-# 谈薪skill
+# 谈薪skill（Salary-Negotiation-Skill）
