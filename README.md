@@ -1,5 +1,4 @@
 # 谈薪skill（Salary-Negotiation-Skill）
-# 智能谈薪咨询系统
 
 ## 一、技术背景与业务目标
 
