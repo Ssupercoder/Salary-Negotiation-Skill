@@ -1,0 +1,35 @@
+# 核心依赖
+torch>=2.1.0
+transformers>=4.35.0
+vllm>=0.2.0
+
+# 数据模型
+pydantic>=2.0.0
+
+# API服务
+fastapi>=0.104.0
+uvicorn>=0.24.0
+
+# RAG向量库
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.0
+
+# OCR
+paddleocr>=2.7.0
+paddlepaddle>=2.5.0
+
+# 语音
+openai-whisper>=20231117
+librosa>=0.10.0
+
+# 评估指标
+nltk>=3.8.0
+jieba>=0.42.0
+
+# 数据库
+sqlalchemy>=2.0.0
+
+# 工具
+numpy>=1.24.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
