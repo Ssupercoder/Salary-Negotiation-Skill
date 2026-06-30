@@ -1,0 +1,10 @@
+interface:
+  display_name: "谈薪智能助手"
+  icon_small: "./assets/icon.svg"
+  brand_color: "#2E86AB"
+
+policy:
+  allow_implicit_invocation: true
+
+dependencies:
+  tools: []
