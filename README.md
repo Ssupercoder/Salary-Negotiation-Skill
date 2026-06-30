@@ -92,7 +92,7 @@
 
 ---
 
-## 八、三个版本实现
+## 七、三个版本实现
 谈薪skill：需要python实现，可以本地部署解析简历
 谈薪skill_easy：可以在codex实现，无需代码
 salary-negotiation-openclaw-skill-main：可以在openclaw实现，无需代码
@@ -100,7 +100,7 @@ salary-negotiation-openclaw-skill-main：可以在openclaw实现，无需代码
 
 ---
 
-## 七、贡献者及联系方式
+## 八、贡献者及联系方式
 | Lei Xin（辛磊，快手科技，2835838600@qq.com) |
 | Zitong Wang（王梓同，武汉大学，wangzitong_whu@163.com） 
 | Hui Wang（王慧，wanghui_123@foxmail.com） |
