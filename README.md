@@ -93,10 +93,10 @@
 ---
 
 ## 七、三个版本实现
-谈薪skill：需要python实现，可以本地部署解析简历
-谈薪skill_easy：可以在codex实现，无需代码
-salary-negotiation-openclaw-skill-main：可以在openclaw实现，无需代码
-⚠️OpenCode为免费版本，也可尝试OpenCode实现
+- 谈薪skill：需要python实现，可以本地部署解析简历
+- 谈薪skill_easy：可以在codex实现，无需代码
+- salary-negotiation-openclaw-skill-main：可以在openclaw实现，无需代码
+- ⚠️OpenCode为免费版本，也可尝试OpenCode实现
 
 ---
 
