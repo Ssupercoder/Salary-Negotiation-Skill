@@ -103,4 +103,4 @@
 ## 八、贡献者及联系方式
 | Lei Xin（辛磊，快手科技，2835838600@qq.com) |
 | Zitong Wang（王梓同，武汉大学，wangzitong_whu@163.com） 
-| Hui Wang（王慧，wanghui_123@foxmail.com） |
+| Hui Wang（王慧，智谱，wanghui_123@foxmail.com） |
