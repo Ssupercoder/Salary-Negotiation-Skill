@@ -90,6 +90,16 @@
 | 状态管理 | 谈薪五阶段引擎 + SQLite记忆 |
 | 部署 | Serverless / 轻量VPS |
 
+---
+
+## 八、三个版本实现
+谈薪skill：需要python实现，可以本地部署解析简历
+谈薪skill_easy：可以在codex实现，无需代码
+salary-negotiation-openclaw-skill-main：可以在openclaw实现，无需代码
+⚠️OpenCode为免费版本，也可尝试OpenCode实现
+
+---
+
 ## 七、贡献者及联系方式
 | Lei Xin（辛磊，快手科技，2835838600@qq.com) |
 | Zitong Wang（王梓同，武汉大学，wangzitong_whu@163.com） 
