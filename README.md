@@ -98,6 +98,7 @@
 - salary-negotiation-openclaw-skill-main：可以在openclaw实现，无需代码
 - ⚠️OpenCode为免费版本，也可尝试OpenCode实现
 
+示例：可以下载skill（网址：https://github.com/Ssupercoder/Salary-Negotiation-Skill/blob/main/谈薪skill_easy/SKILL.md），然后在codex中运行（参考：https://www.bilibili.com/video/BV1fTjY6eEZi/?spm_id_from=333.337.search-card.all.click&vd_source=2bb331f0798e3ca32d08ed6b0f288de8）
 ---
 
 ## 八、贡献者及联系方式
