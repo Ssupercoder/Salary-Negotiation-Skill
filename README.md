@@ -104,3 +104,4 @@
 | Lei Xin（辛磊，快手科技，2835838600@qq.com) |
 | Zitong Wang（王梓同，武汉大学，wangzitong_whu@163.com） 
 | Hui Wang（王慧，智谱，wanghui_123@foxmail.com） |
+| Peize Li（李佩泽，快手科技，peize.li@kcl.ac.uk） |
