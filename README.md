@@ -104,7 +104,8 @@
 
 ## 八、贡献者及联系方式
 - | Lei Xin（辛磊，快手科技，2835838600@qq.com) |
-- | Peize Li（李佩泽，快手科技，peize.li@kcl.ac.uk） |
 - | Qizhi Li（李奇之） |
+- | Fukang Chen（陈福康，南航） |
 - | Zitong Wang（王梓同，武汉大学，wangzitong_whu@163.com） |
+- | Peize Li（李佩泽，快手科技，peize.li@kcl.ac.uk） |
 - | Hui Wang（王慧，智谱，wanghui_123@foxmail.com） |
