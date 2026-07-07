@@ -1,6 +1,6 @@
 # 谈薪skill（Salary-Negotiation-Skill）
 
-[![📹 视频教程](https://img.shields.io/badge/📹%20视频教程-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV11YTr6jEZc)
+[![📹 视频教程](https://img.shields.io/badge/📹%20视频教程-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV11YTr6jEZc) 🌐 [在线演示](http://123.56.46.172:5000)
 
 ## 一、技术背景与业务目标
 
